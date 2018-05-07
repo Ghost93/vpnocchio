@@ -20,7 +20,7 @@ import requests
 import requests_toolbelt
 from user_agent import generate_user_agent
 
-__version__ = '0.0.24'
+__version__ = '0.0.25'
 __author__ = 'Oleksii Ivanchuk (barjomet@barjomet.com)'
 
 logging.getLogger("requests").setLevel(logging.WARNING)
